@@ -1,11 +1,11 @@
 # Site settings
-title: Hux Blog
-SEOTitle: ニィロウ的小网站 https://www.bilibili.com/read/cv21955019/ 出处：bilibili | Hux Blog
+title: zxhの小站点
+SEOTitle: 妮露的小网站 https://www.bilibili.com/read/cv21955019/ 出处：bilibili | Hux Blog
 header-img: img/home-bg.jpg
 email: 18989466126@163.com
 description: "这里是 zxh 的个人blog， | 咱们一起开卷"
-keyword: "黄玄, Hux黄玄, Hux, 鬼栈, huxpro, @huxpro, 黄玄的博客, Hux Blog, 博客, 个人网站, 互联网, Web, JavaScript, React, React Native, 前端, 设计"
-url: "https://huangxuan.me" # your host, for absolute URL
+keyword: "zxh，zxh"
+url: "https://singerssmallship.me" # your host, for absolute URL
 baseurl: "" # for example, '/blog' if your blog hosted on 'host/blog'
 
 # Publish posts or collection documents with a future date.
