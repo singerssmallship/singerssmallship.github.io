@@ -8,4 +8,4 @@ tags:
     - nilou
 ---
 尝试图片
-![替代文本](http://singerssmallship.github.io/img/nilou1.png)
+![img](/img/in-post/post-about-my-target/nilou1.png)
