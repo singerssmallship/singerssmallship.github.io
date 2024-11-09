@@ -41,7 +41,7 @@ tags:
   
 我自知用不到太高深的功能，所以退回blender开始了模型的下载和绑骨，成功得到了想要的模型
   
-![img](/img/in-post/post-about-my-target/nilou3D.jpg)
+![img](/img/in-post/post-about-my-target/nilou3D.JPG)
   
 接着，我开始尝试各种方法连接模型的实时运动：blender直渲，UE5(虚幻5)联动摄像头识别(失败)，
   
