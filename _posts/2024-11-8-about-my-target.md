@@ -8,4 +8,4 @@ tags:
     - nilou
 ---
 尝试图片
-![img](/img/in-post/post-about-my-target/nilou1.png)
+![img](/img/in-post/post-about-my-target/nilou1.jpeg)
